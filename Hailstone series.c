@@ -1,5 +1,7 @@
 /*
-A Hailstone series is defined as follows: start with any integer value greater than 0, say x. If x is even, then the next value in the series is x/2; if x is odd, then the next value in the series is 3x + 1. Now apply the same rules to create the next value in the series, and so on.
+A Hailstone series is defined as follows: start with any integer value greater than 0, say x. 
+If x is even, then the next value in the series is x/2; if x is odd, then the next value in the series is 3x + 1. 
+Now apply the same rules to create the next value in the series, and so on.
 */
 
 #include<stdio.h>
